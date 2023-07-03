@@ -28,7 +28,7 @@ namespace Ejercicios
         string color = "Marron"; */
 
         //* EJERCICIO 3
-        Console.WriteLine("Ingrese un numero: ");
+/*         Console.WriteLine("Ingrese un numero: ");
         int num = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Ingrese un valor de 1 caracter");
         char val = Convert.ToChar(Console.ReadLine());
@@ -39,7 +39,8 @@ namespace Ejercicios
             Console.WriteLine("Una de las dos es verdadera");
         } else {
             Console.WriteLine("No se cumple ninguna de las 2");
-        }
-        }
+        } */
+
     }
+  }
 }
