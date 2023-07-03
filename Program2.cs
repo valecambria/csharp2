@@ -41,6 +41,89 @@ namespace Ejercicios
             Console.WriteLine("No se cumple ninguna de las 2");
         } */
 
+    //*TABLA MULTIPLICAR
+/*         Console.WriteLine("Ingrese el numero que quiera multiplicar");
+        int i = 1;
+        int num = Convert.ToInt32(Console.ReadLine());
+        int result;
+        while(i < 11){
+            result = num * i;
+            Console.WriteLine(num + " x " + i + " = " + result);
+            i++;
+        } */
+
+        //*DO WHILE
+/*         Console.WriteLine("Ingrese un numero");
+        int contPositivo = 0;
+        int contNegativo = 0;
+        float num;
+        do{
+        num = Convert.ToInt64(Console.ReadLine());
+        Console.WriteLine("Ingrese 0 si desea terminar");
+            if(num < 0){
+                contNegativo++;
+            }
+            if(num > 0){
+                contPositivo++;
+            }
+        } while(num != 0);
+            Console.WriteLine("Cantidad de numeros negativos ingresados: " + contNegativo);
+            Console.WriteLine("Cantidad de numeros positivos ingresados: " + contPositivo); */
+    Console.Write("Ingresa el ancho: ");
+        int ancho = int.Parse(Console.ReadLine());
+
+        Console.Write("Ingresa el alto: ");
+        int alto = int.Parse(Console.ReadLine());
+
+        Console.Write("Ingresa la cantidad de cuadrados o rectángulos a dibujar: ");
+        int cantidad = int.Parse(Console.ReadLine());
+
+        Console.Write("¿Deseas que los rectángulos estén rellenos? (S/N): ");
+        bool relleno = Console.ReadLine().ToUpper() == "S";
+
+        for (int k = 0; k < cantidad; k++)
+        {
+            if (ancho == alto)
+            {
+                // Dibujar cuadrado
+                for (int i = 0; i < alto; i++)
+                {
+                    for (int j = 0; j < ancho; j++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine();
+                }
+            }
+            else
+            {
+                // Dibujar rectángulo
+                for (int i = 0; i < alto; i++)
+                {
+                    for (int j = 0; j < ancho; j++)
+                    {
+                        if (relleno)
+                        {
+                            Console.Write("*");
+                        }
+                        else
+                        {
+                            if (i == 0 || i == alto - 1 || j == 0 || j == ancho - 1)
+                            {
+                                Console.Write("*");
+                            }
+                            else
+                            {
+                                Console.Write(" ");
+                            }
+                        }
+                    }
+                    Console.WriteLine();
+                }
+            }
+
+            Console.WriteLine();
+        }
     }
   }
 }

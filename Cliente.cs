@@ -1,5 +1,5 @@
     //*Lo que quiero hacer con esta plantilla lo escribo siempre arriba
-        Cliente cliente1 = new Cliente();
+/*         Cliente cliente1 = new Cliente();
         cliente1.Nombre = "Valentino";
         cliente1.Apellido = "Cambria";
         cliente1.Numero = "3585044216";
@@ -27,4 +27,4 @@
             public bool EsNuevo {get; set;}
         
             public override string ToString() => $"({Nombre}, {Apellido}, {Numero}, {Direccion}, {Email}, {EsNuevo})";
-        }
+        } */
