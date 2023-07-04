@@ -69,7 +69,7 @@ namespace Ejercicios
         } while(num != 0);
             Console.WriteLine("Cantidad de numeros negativos ingresados: " + contNegativo);
             Console.WriteLine("Cantidad de numeros positivos ingresados: " + contPositivo); */
-    Console.Write("Ingresa el ancho: ");
+/*     Console.Write("Ingresa el ancho: ");
         int ancho = int.Parse(Console.ReadLine());
 
         Console.Write("Ingresa el alto: ");
@@ -123,7 +123,49 @@ namespace Ejercicios
             }
 
             Console.WriteLine();
+        } */
+
+        //*EJERCICIO CUPON CLIENTE
+/*         Console.WriteLine("Ingrese su nombre y apellido");
+        string nombreCompleto = Console.ReadLine();
+        Console.WriteLine("Posee cupon de descuento? S/N");
+        string cupon = Console.ReadLine().ToUpper();
+        float precio = 299.99f;
+        if(cupon == "S"){
+            precio = precio - 20;
+            Console.WriteLine("El precio del producto con el cupon es de $" + precio);
+        } else {
+        Console.WriteLine("El precio del producto es $" + precio);
+        } */
+
+        //*EJERCICIO CON SWITCH
+        Console.WriteLine("Seleccione el lenguaje que desee utilizando numeros o letras");
+        Console.WriteLine("C# (1 / a)");
+        Console.WriteLine("Java (2 / b)");
+        Console.WriteLine("C++ (3 / c)");
+        ConsoleKeyInfo eleccion = Console.ReadKey();
+        Console.WriteLine();
+        switch(eleccion.KeyChar)
+        {
+            case '1':
+            case 'a':
+            Console.WriteLine("Seleccionaste C#");
+            break;
+
+            case '2':
+            case 'b':
+            Console.WriteLine("Seleccionaste Java");
+            break;
+
+            case '3':
+            case 'c':
+            Console.WriteLine("Seleccionaste C++");
+            break;
+
+            default:
+            Console.WriteLine("Selección Inválida");
+            break;
         }
-    }
   }
+}
 }

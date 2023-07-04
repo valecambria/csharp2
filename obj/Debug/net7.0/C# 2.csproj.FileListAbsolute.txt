@@ -13,3 +13,18 @@ C:\Users\Valentino\Desktop\C# 2\obj\Debug\net7.0\refint\C# 2.dll
 C:\Users\Valentino\Desktop\C# 2\obj\Debug\net7.0\C# 2.pdb
 C:\Users\Valentino\Desktop\C# 2\obj\Debug\net7.0\C# 2.genruntimeconfig.cache
 C:\Users\Valentino\Desktop\C# 2\obj\Debug\net7.0\ref\C# 2.dll
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\bin\Debug\net7.0\C# 2.exe
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\bin\Debug\net7.0\C# 2.deps.json
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\bin\Debug\net7.0\C# 2.runtimeconfig.json
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\bin\Debug\net7.0\C# 2.dll
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\bin\Debug\net7.0\C# 2.pdb
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.csproj.AssemblyReference.cache
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.AssemblyInfoInputs.cache
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.AssemblyInfo.cs
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.dll
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\refint\C# 2.dll
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.pdb
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\C# 2.genruntimeconfig.cache
+C:\Users\Valentino\Desktop\Programación\C# OpenBootcamp\C# 2\obj\Debug\net7.0\ref\C# 2.dll

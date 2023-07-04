@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valentino\\Desktop\\C# 2\\C# 2.csproj": {}
+    "C:\\Users\\Valentino\\Desktop\\Programación\\C# OpenBootcamp\\C# 2\\C# 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valentino\\Desktop\\C# 2\\C# 2.csproj": {
+    "C:\\Users\\Valentino\\Desktop\\Programación\\C# OpenBootcamp\\C# 2\\C# 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valentino\\Desktop\\C# 2\\C# 2.csproj",
+        "projectUniqueName": "C:\\Users\\Valentino\\Desktop\\Programación\\C# OpenBootcamp\\C# 2\\C# 2.csproj",
         "projectName": "C# 2",
-        "projectPath": "C:\\Users\\Valentino\\Desktop\\C# 2\\C# 2.csproj",
+        "projectPath": "C:\\Users\\Valentino\\Desktop\\Programación\\C# OpenBootcamp\\C# 2\\C# 2.csproj",
         "packagesPath": "C:\\Users\\Valentino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valentino\\Desktop\\C# 2\\obj\\",
+        "outputPath": "C:\\Users\\Valentino\\Desktop\\Programación\\C# OpenBootcamp\\C# 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valentino\\AppData\\Roaming\\NuGet\\NuGet.Config"
